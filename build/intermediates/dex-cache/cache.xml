@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/yumiko.ishii/AndroidStudioProjects/test/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/yumiko.ishii/AndroidStudioProjects/test/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.0.0_334d9a79facacbc4654336fd2c8aab170bb0f167.jar" />
+    </item>
+    <item
+        jar="/Users/yumiko.ishii/AndroidStudioProjects/test/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/yumiko.ishii/AndroidStudioProjects/test/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_94fbcd4279fa6b6416bf7187354f4974cbb9b919.jar" />
+    </item>
+    <item
+        jar="/Users/yumiko.ishii/AndroidStudioProjects/test/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d18f1aab51f79fa29a7f4e9576c937c60b90284d">
+        <dex dex="/Users/yumiko.ishii/AndroidStudioProjects/test/app/build/intermediates/pre-dexed/debug/instant-run_af8cf9fd8a1c233621bb24518346e05ef78626cf.jar" />
+    </item>
+    <item
+        jar="/Users/yumiko.ishii/AndroidStudioProjects/test/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/yumiko.ishii/AndroidStudioProjects/test/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.0.0_67704ad40f285c7baa2c59141bcecc62eb80d153.jar" />
+    </item>
+    <item
+        jar="/Users/yumiko.ishii/AndroidStudioProjects/test/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="85083f25a7e19c1cf1781dec8d70c27e72ae7964">
+        <dex dex="/Users/yumiko.ishii/AndroidStudioProjects/test/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_b17b7ea3c2c42bbe560bc6e2667205fc1b285d07.jar" />
+    </item>
+    <item
+        jar="/Users/yumiko.ishii/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.0.0/2943c74db6d4346ab8c6531adac91fa05c137c40/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/yumiko.ishii/AndroidStudioProjects/test/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_5745ae6e0b5a990a99ec7e6caa62d2cbceca84b4.jar" />
+    </item>
+    <item
+        jar="/Users/yumiko.ishii/AndroidStudioProjects/test/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/yumiko.ishii/AndroidStudioProjects/test/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_4344deded768acdd9143f8b0ae05c80c342c088e.jar" />
+    </item>
+    <item
+        jar="/Users/yumiko.ishii/AndroidStudioProjects/test/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/yumiko.ishii/AndroidStudioProjects/test/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.0.0_cf273bd4c006166c2f3458e1fb987e0b40192fdf.jar" />
+    </item>
+
+</items>
